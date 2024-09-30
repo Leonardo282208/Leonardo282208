@@ -1,16 +1,13 @@
-## Hi there 👋
+## BOAS VINDAS AO MEU PERFIL❤
 
-<!--
-**Leonardo282208/Leonardo282208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É LEONARDO ALMEIDA DA SILVA 
 
-Here are some ideas to get you started:
+ESTOU ESTUDANDO NA ALURA;
+-ESTOU ME DESENVOLVENDO NA LINGUAGEM JavaScript
+-UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇÃO E COMPARTILHAMENTO DOS MEUS PROJETOS DESEMVOLVIDOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## VOÇE ENTRAR EM CONTATO COMIGO 📫
+
+ 00001104149242Ssp@al.educacao.sp.gov.br
+
+ 00001104149242Ssp@al.educacao.sp.gov.br
