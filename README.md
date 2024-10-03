@@ -11,3 +11,5 @@ ESTOU ESTUDANDO NA ALURA;
  00001104149242Ssp@al.educacao.sp.gov.br
 
  00001104149242Ssp@al.educacao.sp.gov.br
+
+|[]( https://tenor.com/pt-BR/view/will-smith-clap-yay-happy-hooray-gif-13226780)
